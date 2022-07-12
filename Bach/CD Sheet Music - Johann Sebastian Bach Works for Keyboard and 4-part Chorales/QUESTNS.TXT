@@ -1,0 +1,28 @@
+For First-time Users
+
+It is recommended that Adobe Acrobat Reader be installed
+before installing CD Sheet Music. For optimal performance,
+versions of Adobe Acrobat Reader prior to 4.0 should be
+removed.
+
+For future use it is not necessary to reinstall either
+Adobe Acrobat Reader or CD Sheet Music. Simply launch
+CD Sheet Music directly, using the "OPEN" Command button
+on the startup screen, or use the Desktop Shortcut/Icon.
+
+Newer versions of CD Sheet Music are compatible with all
+older versions. It is not necessary or recommended to
+uninstall older versions of CD Sheet Music as the new 
+versions overwrite the older Desktop Shortcut/Icon. Newer
+versions provide enhanced functionality.
+
+HELPFUL HINT:      To navigate more easily through the
+CD Sheet Music files, simply go to FILE/PREFERENCES/GENERAL
+and uncheck the option box for "OPEN CROSS-DOC LINKS IN
+SAME WINDOW." This will allow you to keep your position in
+the table of contents. This function can only be achieved
+after Adobe Acrobat Reader is installed.
+
+More Questions?
+Visit our website at www.cdsheetmusic.com, or click the
+"WEBSITE" Command button on the startup screen.
